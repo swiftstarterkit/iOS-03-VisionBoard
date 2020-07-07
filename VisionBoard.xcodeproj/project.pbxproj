@@ -11,6 +11,7 @@
 		7A64061F24B4EAB600B3E28F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A64061E24B4EAB600B3E28F /* ContentView.swift */; };
 		7A64062124B4EAB900B3E28F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A64062024B4EAB900B3E28F /* Assets.xcassets */; };
 		7A64062424B4EAB900B3E28F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A64062324B4EAB900B3E28F /* Preview Assets.xcassets */; };
+		7A64062C24B5187400B3E28F /* GridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A64062B24B5187400B3E28F /* GridItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		7A64062024B4EAB900B3E28F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A64062324B4EAB900B3E28F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7A64062524B4EAB900B3E28F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A64062B24B5187400B3E28F /* GridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				7A64061C24B4EAB600B3E28F /* VisionBoardApp.swift */,
 				7A64061E24B4EAB600B3E28F /* ContentView.swift */,
+				7A64062B24B5187400B3E28F /* GridItemView.swift */,
 				7A64062024B4EAB900B3E28F /* Assets.xcassets */,
 				7A64062524B4EAB900B3E28F /* Info.plist */,
 				7A64062224B4EAB900B3E28F /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A64061F24B4EAB600B3E28F /* ContentView.swift in Sources */,
+				7A64062C24B5187400B3E28F /* GridItemView.swift in Sources */,
 				7A64061D24B4EAB600B3E28F /* VisionBoardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
