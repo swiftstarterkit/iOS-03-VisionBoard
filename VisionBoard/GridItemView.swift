@@ -17,7 +17,6 @@ struct GridItemView: View {
             .resizable()
             .aspectRatio(contentMode: .fill)
             .frame(width: 100, height: 100, alignment: .center)
-            .foregroundColor(Color(.systemRed))
             .cornerRadius(10)
         
     }
